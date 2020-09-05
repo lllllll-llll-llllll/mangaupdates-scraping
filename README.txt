@@ -1,4 +1,4 @@
-various little autoit scripts used to download and gradually parse and refine the entirety of the mangaupdates series html data into a csv database.
+various little autoit scripts used to scrape, parse, and format as CSV. it uses mangaupdates as the data source.
 
 download > parse > missing (is it still necessary?) > csv
 
